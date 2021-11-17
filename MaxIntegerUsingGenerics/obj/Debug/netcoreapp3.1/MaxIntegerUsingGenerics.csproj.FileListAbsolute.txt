@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\MaxIntegerUsingGenerics\MaxIntegerUsingGenerics\bin\Debug\netcoreapp3.1\MaxIntegerUsingGenerics.exe
+C:\Users\hp\source\repos\MaxIntegerUsingGenerics\MaxIntegerUsingGenerics\bin\Debug\netcoreapp3.1\MaxIntegerUsingGenerics.deps.json
+C:\Users\hp\source\repos\MaxIntegerUsingGenerics\MaxIntegerUsingGenerics\bin\Debug\netcoreapp3.1\MaxIntegerUsingGenerics.runtimeconfig.json
+C:\Users\hp\source\repos\MaxIntegerUsingGenerics\MaxIntegerUsingGenerics\bin\Debug\netcoreapp3.1\MaxIntegerUsingGenerics.runtimeconfig.dev.json
+C:\Users\hp\source\repos\MaxIntegerUsingGenerics\MaxIntegerUsingGenerics\bin\Debug\netcoreapp3.1\MaxIntegerUsingGenerics.dll
+C:\Users\hp\source\repos\MaxIntegerUsingGenerics\MaxIntegerUsingGenerics\bin\Debug\netcoreapp3.1\MaxIntegerUsingGenerics.pdb
+C:\Users\hp\source\repos\MaxIntegerUsingGenerics\MaxIntegerUsingGenerics\obj\Debug\netcoreapp3.1\MaxIntegerUsingGenerics.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\MaxIntegerUsingGenerics\MaxIntegerUsingGenerics\obj\Debug\netcoreapp3.1\MaxIntegerUsingGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\MaxIntegerUsingGenerics\MaxIntegerUsingGenerics\obj\Debug\netcoreapp3.1\MaxIntegerUsingGenerics.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\MaxIntegerUsingGenerics\MaxIntegerUsingGenerics\obj\Debug\netcoreapp3.1\MaxIntegerUsingGenerics.AssemblyInfo.cs
+C:\Users\hp\source\repos\MaxIntegerUsingGenerics\MaxIntegerUsingGenerics\obj\Debug\netcoreapp3.1\MaxIntegerUsingGenerics.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MaxIntegerUsingGenerics\MaxIntegerUsingGenerics\obj\Debug\netcoreapp3.1\MaxIntegerUsingGenerics.dll
+C:\Users\hp\source\repos\MaxIntegerUsingGenerics\MaxIntegerUsingGenerics\obj\Debug\netcoreapp3.1\MaxIntegerUsingGenerics.pdb
+C:\Users\hp\source\repos\MaxIntegerUsingGenerics\MaxIntegerUsingGenerics\obj\Debug\netcoreapp3.1\MaxIntegerUsingGenerics.genruntimeconfig.cache
